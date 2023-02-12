@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "983873025775",
+    "project_id": "newchatapp-5f1cf",
+    "storage_bucket": "newchatapp-5f1cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983873025775:android:36e756e674e00d28794d1a",
+        "android_client_info": {
+          "package_name": "com.midodev.group_charry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983873025775-rtm5hvb0240rbis4phuc24it5le4qinl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApn0gUKW-SZMaMKFVTXu0TzVtvbUqLNQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983873025775-rtm5hvb0240rbis4phuc24it5le4qinl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983873025775-2sdu9p4jui8kv97fsn24nf3qeod139co.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.midodev.chattyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
